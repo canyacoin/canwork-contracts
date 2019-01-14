@@ -1,0 +1,19 @@
+{
+  "contracts": {
+    "CanYaCoin": {
+      "address": "0xee9154ab6366416e80a1eb718954abe2ae406274",
+      "bytecodeHash": "f8831d721e9f4eee543972e285f47672d0dd330e6345880d51b3732cc126be7b"
+    }
+  },
+  "proxies": {},
+  "app": {
+    "address": "0xb4d8866af65e8f29540e15c55dff27b8a4ef4e32"
+  },
+  "version": "0.1.0",
+  "package": {
+    "address": "0xa8975d4fb63823e42dd08869b4c3587da9f91355"
+  },
+  "provider": {
+    "address": "0xe30a73f32e11cd554b013b24f98fa97c523a6b3e"
+  }
+}

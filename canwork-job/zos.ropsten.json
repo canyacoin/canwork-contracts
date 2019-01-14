@@ -1,0 +1,29 @@
+{
+  "contracts": {
+    "CanWork": {
+      "address": "0x00b7f2a8369c2eb5527b45b32096cc7a058af1f6",
+      "constructorCode": "6080604052600060025534801561001557600080fd5b50613476806100256000396000f300",
+      "bodyBytecodeHash": "d2e3706ad4a786992fe9626a97d20a8b7151f8dc6044c5645113236df671acea",
+      "bytecodeHash": "9370ed54bef4b42a0177dc31d30a3f9e4f1d726eee864aa8a9804ae3f3909d27"
+    }
+  },
+  "proxies": {
+    "CanWork": [
+      {
+        "address": "0xae713a4428e61bfedacde3480b8699cef2940930",
+        "version": "0.1.0",
+        "implementation": "0x00b7f2a8369c2eb5527b45b32096cc7a058af1f6"
+      }
+    ]
+  },
+  "app": {
+    "address": "0x54ac0bdf4292f7565af13c9fbef214eeeb2d0f87"
+  },
+  "version": "0.1.0",
+  "package": {
+    "address": "0x8718494a8e41420a35dcfece0339633b0444af02"
+  },
+  "provider": {
+    "address": "0x4a69a738fce456141df147c6365473053f5b8d55"
+  }
+}
