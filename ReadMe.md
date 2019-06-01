@@ -1,3 +1,12 @@
+****
+
+> **Mirror**
+> This repo mirrors from Gitlab to Github. Please commit to the Gitlab repo:
+> https://gitlab.com/canyacoin/canwork/smart-contracts
+
+****
+
+
 # CanWork Contracts
 
 This repo holds the main Solidity Smart Contracts for CANWork & CANWorkAdmin.
